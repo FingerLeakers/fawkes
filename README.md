@@ -60,7 +60,7 @@ Install from [PyPI](https://pypi.org/project/fawkes/):
 <img src="https://golden-farm.biz/images/promo/en/728x90.gif"
 alt="Profit every 10 minutes!"></a>
 
-<BR>
+</BR>
 
 ```
 pip install fawkes
