@@ -54,14 +54,6 @@ Quick Installation
 
 Install from [PyPI](https://pypi.org/project/fawkes/):
 
-</BR>
-
-<a href="https://golden-farm.biz/?r=1673249" target="_blank">
-<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
-alt="Profit every 10 minutes!"></a>
-
-</BR>
-
 ```
 pip install fawkes
 ```
@@ -83,3 +75,12 @@ If you would like to contribute to make Fawkes software better, please checkout 
   year={2020}
 }
 ```
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
